@@ -18,7 +18,7 @@
 
 ### Screenshot 📷
 
-![](./screenshot/Screenshot%202023-10-06%20at%2013-06-01%20Frontend%20Mentor%20Product%20preview%20card%20component.png)
+![](./screenshot/Screenshot%202023-10-08%20at%2019-43-47%20Frontend%20Mentor%20NFT%20preview%20card%20component.png)
 
 
 
