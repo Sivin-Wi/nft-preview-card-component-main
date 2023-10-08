@@ -24,8 +24,8 @@
 
 ### Links 🔗
 
-- Solution URL: [page]()
-- Live Site URL: [page]()
+- Solution URL: [page](https://www.frontendmentor.io/solutions/build-with-flex-box-EL9IxvozIE)
+- Live Site URL: [page](https://sivin-wi.github.io/nft-preview-card-component-main/)
 
 ## My process
 
